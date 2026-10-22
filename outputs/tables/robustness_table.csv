@@ -1,0 +1,6 @@
+"Dimension","Jaccard_Mean","ANOVA_p_value"
+"Income",0.696,0
+"Education",0.686,0
+"Informality",0.852,0
+"Female Proportion",0.778,0
+"Working Hours",0.902,0.146
